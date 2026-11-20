@@ -10,6 +10,7 @@ Universidad Autónoma de Occidente. Docente: Sandra Lucía Guañarita Fernández
 - Samuel Vergara Palacios
 - Joshua David Angulo Murillo
 - Andrey Valencia Samboni
+- Jhoana Valentina Flor Otalora
 
 ## Qué hace el aplicativo
 
